@@ -103,9 +103,7 @@ Enhanced Resume Parsing: Incorporate more granular visual parsing for complex mu
 
 # Dark mode 
 
-<img width="584" height="564" alt="Screenshot 2025-12-26 101409" src="https://github.com/user-attachments/assets/b493584b-7fcd-4ab9-a0f1-a130fedf31c5" />
 
-<img width="584" height="564" alt="Screenshot 2025-12-26 101409" src="https://github.com/user-attachments/assets/c1a6f83f-30c1-4db3-a826-0c99d4ab4320" />
 
 <img width="687" height="917" alt="Screenshot 2025-12-26 101416" src="https://github.com/user-attachments/assets/d1174bb9-7b88-4de0-bfcd-ad9a2c67ecaa" />
 
