@@ -70,4 +70,6 @@ Enhanced Resume Parsing: Incorporate more granular visual parsing for complex mu
 
 ## OUTPUT 
 
-Conclusion: JobSnap represents a significant advancement in personal job search management by bridging the gap between manual tracking and intelligent automation. By integrating Gemini AI directly into the browser workflow, it empowers candidates to optimize their profiles for both bots (ATS) and humans (Recruiters). The modular architecture and premium UI design ensure it remains a scalable, high-performance tool that reduces the manual burden of the job hunt while providing the analytical insights necessary to secure offers in a competitive market.
+## Conclusion
+
+JobSnap represents a significant advancement in personal job search management by bridging the gap between manual tracking and intelligent automation. By integrating Gemini AI directly into the browser workflow, it empowers candidates to optimize their profiles for both bots (ATS) and humans (Recruiters). The modular architecture and premium UI design ensure it remains a scalable, high-performance tool that reduces the manual burden of the job hunt while providing the analytical insights necessary to secure offers in a competitive market.
