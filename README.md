@@ -87,22 +87,30 @@ Enhanced Resume Parsing: Incorporate more granular visual parsing for complex mu
 <img width="701" height="924" alt="Screenshot 2025-12-26 101308" src="https://github.com/user-attachments/assets/a94c4ac2-ca7e-4ab1-8e5d-a4e4516b7912" />
 
 # Carrer intel page 
+
 <img width="702" height="912" alt="Screenshot 2025-12-26 101352" src="https://github.com/user-attachments/assets/cba3e507-3291-42f5-af3e-fda513f5975c" />
+
 <img width="699" height="911" alt="Screenshot 2025-12-26 101343" src="https://github.com/user-attachments/assets/f06343d9-de14-40f9-80e2-a5a64da9a244" />
 
-#Info page 
+# Info page 
 <img width="698" height="917" alt="Screenshot 2025-12-26 101402" src="https://github.com/user-attachments/assets/40a5afea-0159-46a2-b870-c9dd01262690" />
 
-#Dark mode 
+# Dark mode 
 <img width="584" height="564" alt="Screenshot 2025-12-26 101409" src="https://github.com/user-attachments/assets/b493584b-7fcd-4ab9-a0f1-a130fedf31c5" />
+
 <img width="584" height="564" alt="Screenshot 2025-12-26 101409" src="https://github.com/user-attachments/assets/c1a6f83f-30c1-4db3-a826-0c99d4ab4320" />
+
 <img width="687" height="917" alt="Screenshot 2025-12-26 101416" src="https://github.com/user-attachments/assets/d1174bb9-7b88-4de0-bfcd-ad9a2c67ecaa" />
+
 <img width="701" height="913" alt="Screenshot 2025-12-26 101425" src="https://github.com/user-attachments/assets/09c88504-8179-4984-a830-1406839300e0" />
+
 <img width="683" height="915" alt="Screenshot 2025-12-26 101434" src="https://github.com/user-attachments/assets/d2dfb023-f8ce-41a3-ad5f-7181b3cd3705" />
+
 <img width="678" height="919" alt="Screenshot 2025-12-26 101442" src="https://github.com/user-attachments/assets/d8459f95-fa4f-4f1a-bb9c-bac25adabc2f" />
 
 # At web pages
 <img width="1920" height="1080" alt="Screenshot 2025-12-26 101456" src="https://github.com/user-attachments/assets/0126b2f9-99dd-4f5b-9efe-f60c6720b251" />
+
 <img width="1920" height="1080" alt="Screenshot 2025-12-26 101504" src="https://github.com/user-attachments/assets/2af8fe32-ed49-4ebb-984a-0183b3331d74" />
 
 
