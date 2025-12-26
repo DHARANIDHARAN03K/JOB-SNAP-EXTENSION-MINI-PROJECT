@@ -72,19 +72,27 @@ Enhanced Resume Parsing: Incorporate more granular visual parsing for complex mu
 
 # My job page 
 <img width="706" height="925" alt="Screenshot 2025-12-26 101227" src="https://github.com/user-attachments/assets/349409a6-7c26-448a-8b75-a6417c23737c" />
+
 # Add job page
 <img width="711" height="923" alt="Screenshot 2025-12-26 101258" src="https://github.com/user-attachments/assets/0e62326e-dbb6-44be-a021-6f8223c09e6d" />
+
 # Side bar 
 <img width="706" height="921" alt="Screenshot 2025-12-26 101241" src="https://github.com/user-attachments/assets/6367b3f9-16f5-4080-8e09-50e3ce7fa56f" />
+
 # ATS page
 <img width="701" height="924" alt="Screenshot 2025-12-26 101308" src="https://github.com/user-attachments/assets/754e9977-ff94-4793-a155-465edee66c3a" />
+
+
 # Analytics page
 <img width="701" height="924" alt="Screenshot 2025-12-26 101308" src="https://github.com/user-attachments/assets/a94c4ac2-ca7e-4ab1-8e5d-a4e4516b7912" />
+
 # Carrer intel page 
 <img width="702" height="912" alt="Screenshot 2025-12-26 101352" src="https://github.com/user-attachments/assets/cba3e507-3291-42f5-af3e-fda513f5975c" />
 <img width="699" height="911" alt="Screenshot 2025-12-26 101343" src="https://github.com/user-attachments/assets/f06343d9-de14-40f9-80e2-a5a64da9a244" />
+
 #Info page 
 <img width="698" height="917" alt="Screenshot 2025-12-26 101402" src="https://github.com/user-attachments/assets/40a5afea-0159-46a2-b870-c9dd01262690" />
+
 #Dark mode 
 <img width="584" height="564" alt="Screenshot 2025-12-26 101409" src="https://github.com/user-attachments/assets/b493584b-7fcd-4ab9-a0f1-a130fedf31c5" />
 <img width="584" height="564" alt="Screenshot 2025-12-26 101409" src="https://github.com/user-attachments/assets/c1a6f83f-30c1-4db3-a826-0c99d4ab4320" />
